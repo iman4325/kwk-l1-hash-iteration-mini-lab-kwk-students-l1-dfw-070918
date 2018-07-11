@@ -48,6 +48,8 @@ def iterate_through_keys
     :London => "2012",
     :Atlanta => "1996"
   }
-  puts special_olympics.key.upcase
+  puts special_olympics.key
+  special_new = {}
+  
   
 end
