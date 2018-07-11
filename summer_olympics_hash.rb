@@ -50,6 +50,7 @@ def iterate_through_keys
   }
   puts special_olympics.key
   special_new = {}
+  upcased_cities = 
   
   
 end
