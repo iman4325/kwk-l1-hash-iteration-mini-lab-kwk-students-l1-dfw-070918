@@ -32,7 +32,7 @@ def iterate_through_hash
     :London => "2012"
   }
   summer_olympics.each do |key, value|
-    puts key
+    puts "The #{key} summer olympics took place in #{value}"
   end
   
 end
